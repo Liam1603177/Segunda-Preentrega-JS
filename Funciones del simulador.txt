@@ -1,0 +1,8 @@
+Las funciones principales ahora son:
+
+- `mostrarListaAnimes`: Muestra el catálogo de animes disponibles.
+- `buscarAnime`: Permite al usuario buscar un anime específico.
+- `mostrarDetallesAnime`: Muestra los detalles del anime seleccionado y permite agregar episodios a la lista de reproducción.
+- `agregarAListaReproduccion`: Agrega un episodio a la lista de reproducción.
+- `mostrarListaReproduccion`: Muestra la lista de reproducción actual y permite eliminar elementos.
+- `eliminarDeLista`: Permite al usuario eliminar un episodio de la lista de reproducción.
